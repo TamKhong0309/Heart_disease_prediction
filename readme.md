@@ -1,5 +1,5 @@
 # Heart_Disease_prediction_using logisticRegression
-Workflow :
+## Workflow :
     Importing required libraries
     Loading Data Set
     Shape of Data
@@ -13,8 +13,8 @@ Workflow :
     Building prediction Model
     Predictions of test data
     Model Evaluation (confusion matrix, accuracy, precision, recall, f1 score, roc and auc)
-Note:
-columns description:
+## Note:
+### columns description:
     age : age in years
     sex : (1 = male; 0 = female)
     chest pain type (4 values)
