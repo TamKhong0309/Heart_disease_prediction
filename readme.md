@@ -1,18 +1,18 @@
 # Heart_Disease_prediction_using logisticRegression
 ## Workflow :
-    Importing required libraries
-    Loading Data Set
-    Shape of Data
-    Basic Understanding of Data
-    Column types and descriptions
-    Preprocessing of Data
+    1.Importing required libraries
+    2.Loading Data Set
+    3.Shape of Data
+    4.Basic Understanding of Data
+    5.Column types and descriptions
+    6.Preprocessing of Data
         Cleaning of Data (checking missing values, skewness and distribution of features and target, detecting outliers, handling outlliers)
-    Relationship of features with target using scatterplot
-    Feature Selection (correlation, multicollinearity)
-    Seggregation of Training data and test data
-    Building prediction Model
-    Predictions of test data
-    Model Evaluation (confusion matrix, accuracy, precision, recall, f1 score, roc and auc)
+    7.Relationship of features with target using scatterplot
+    8.Feature Selection (correlation, multicollinearity)
+    9.Seggregation of Training data and test data
+    10.Building prediction Model
+    11.Predictions of test data
+    12.Model Evaluation (confusion matrix, accuracy, precision, recall, f1 score, roc and auc)
 ## Note:
 ### columns description:
     age : age in years
